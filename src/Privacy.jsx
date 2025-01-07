@@ -8,7 +8,7 @@ const Privacy = () => {
         Privacy Policy
       </Heading>
       <Text fontSize="lg" mb={4}>
-        At Heyoo, your privacy is of utmost importance to us. We are committed to ensuring that your personal information is protected and secure.
+        At Nanasambia, your privacy is of utmost importance to us. We are committed to ensuring that your personal information is protected and secure.
       </Text>
       <Text mb={4}>
         <strong>What Information We Collect:</strong> We collect only the necessary details such as your name, phone number, and interests to create your profile and provide a personalized experience.
